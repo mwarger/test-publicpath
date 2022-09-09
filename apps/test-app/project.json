@@ -18,7 +18,7 @@
         "assets": ["apps/test-app/src/favicon.ico", "apps/test-app/src/assets"],
         "styles": ["apps/test-app/src/styles.css"],
         "scripts": [],
-        "webpackConfig": "@nrwl/react/plugins/webpack"
+        "webpackConfig": "apps/test-app/webpack.config.js"
       },
       "configurations": {
         "development": {
